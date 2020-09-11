@@ -58,8 +58,6 @@ menu:
     url:               /portfolio/
   - title:             About
     url:               /about/
-  - title:             Hire Me
-    url:               /hireme/
   - title:             Contact
     url:               /contact/
 
