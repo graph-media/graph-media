@@ -12,7 +12,7 @@ sitemap: false
    <header>
       <h1 class="page-title" property="name"></h1>
       <p class="post-date heading"> <a href="/portfolio/" class="flip-title" property="genre">Projects</a> | <time datetime="2020-07-07T00:00:00+07:00">Mobile Development</time> </p>
-      <div class="lead aspect-ratio sixteen-nine" style="opacity: 1;"> <img src="http://127.0.0.1:4000/assets/img/mobdev.png"  sizes="(min-width:90em)48rem,(min-width:54em)42rem,(min-width:42em)38rem,100vw" alt="Hydejack 9" property="image" width="864" height="486" loading="lazy" style="opacity: 0;"></div>
+      <div class="lead aspect-ratio sixteen-nine" style="opacity: 1;"> <img src="https://firebasestorage.googleapis.com/v0/b/graph-media.appspot.com/o/images%2Fmobdev.jpg?alt=media&token=c95ce60c-32b8-4f4f-b74c-a8ea6a2f9249"  sizes="(min-width:90em)48rem,(min-width:54em)42rem,(min-width:42em)38rem,100vw" alt="Hydejack 9" property="image" width="864" height="486" loading="lazy" style="opacity: 0;"></div>
       <p class="note-sm" property="description">
          We develop our beutiful native apps using flutter
          <meta property="disambiguatingDescription" content="A boutique Jekyll theme">
